@@ -22,7 +22,10 @@ export default defineUserConfig({
         text: '聯絡我們',
         link: '/contact',
       },
+      {
+        text: '影片',
+        link: '/video',
+      },
     ],
-    
   }),
 })
