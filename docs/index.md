@@ -1,2 +1,20 @@
 
-![Image from images folder](./assets/singan.jpg)
+1.共樂居護所
+![one](./assets/one.png)
+1.共樂生活股份有限公司附設嘉義縣私立共樂居家長照機構
+![two](./assets/two.jpeg)
+1.新港共樂失智社區服務據點
+![s1](./assets/singan.jpg)
+![s1](./assets/singan2.jpeg)
+1.共樂朴子A單位
+![A](./assets/a.jpeg)
+共樂長照交通車
+![car](./assets/car.jpeg)
+
+共樂居家護理所    
+電話：05-3411111    
+地址：624 嘉義縣義竹鄉六桂村2鄰154-27號    
+
+共樂生活股份有限公司附設嘉義縣私立共樂居家長照機構    
+電話：05-3412111    
+地址：624 嘉義縣義竹鄉傳芳村義竹474-6號1樓    
