@@ -15,3 +15,10 @@
 1. [在資源不足地區 居家護理所成為社區護理站)](https://www.ankecare.com/article/2012-2022-06-28-14-41-04)    
 1. [護理師的告白：離開醫院，我才知道病人為什麼總是反覆入院)](https://www.ilong-termcare.com/Article/Detail/1068?fbclid=IwAR0vz2hOsiBG_tk_LlYXw6TWpIrqFslTgJtxq3HNdvnc-Op2twTRwA3swgw)    
 1. [失智據點的下一站－失智長者變身醬菜達人！新港共樂據點的永續經營術](https://www.ankecare.com/article/2684-2023-08-17-02-05-22?fbclid=IwAR0qSufK18fwMNFFCq6YnV-hxoqIUhUJiJfkSiuLJCGfYEFRNOUwuJclJ5s)
+
+
+1. 嘉縣「管路安心計畫」創造三贏
+[「無管一身輕」 嘉縣「管路安心計畫」創造三贏-風傳媒](https://www.storm.mg/localarticle/4972805)
+1. 「管路安心再+1」管路移除嘉尚讚  
+世新新聞 嘉義縣管路安心再+1~管路移除嘉尚讚 - YouTube  
+[嘉義縣新港鄉青銀共生 「芥幸福」吃出美味回憶](https://www.chinatimes.com/realtimenews/20240119003718-260407?ctrack=pc_main_rtime_p02&chdtv&fbclid=IwAR1nlNbanQOYPQLHYS4zZcrggtcQOszxCp_KgGaPUIhXVzhumQV-3TBoXjc)
