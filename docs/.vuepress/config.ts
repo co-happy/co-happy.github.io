@@ -6,6 +6,7 @@ export default defineUserConfig({
   description: '共樂生活股份有限公司附設嘉義縣私立共樂居家',
   theme: defaultTheme({
     colorMode:'light',
+    colorModeSwitch: false,
     logo: 'logo.png',
     navbar: [
       {
