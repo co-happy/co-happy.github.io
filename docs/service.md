@@ -44,17 +44,17 @@
 A單位是指為失能者擬定照顧服務計畫和連結長照服務的單位，透過區域內長照資源，經由服務整合與串聯，依個案狀況提供多元照顧需求，並協調安排照顧資源；符合服務對象之民眾可透過為民服務管道(如1966 專線、區公所、衛生所、出院準備友善醫院、嘉義縣長照中心等申請長照服務。
 
 ### 二、服務對象：
-長照服務申請資格應為長照需要等級第2 級（含）以上，且符合下列情形之一
-一、65歲以上老人
-二、領有身心障礙證明(手冊)者
-三、55-64歲原住民
-四、50歲以上失智症者
+長照服務申請資格應為長照需要等級第2 級（含）以上，且符合下列情形之一  
+1. 65歲以上老人
+1. 領有身心障礙證明(手冊)者
+1. 55-64歲原住民
+1. 50歲以上失智症者
 
 #### 三、長照服務分4大類(長照四包錢)：[連結](https://ltccenter.cyhg.gov.tw/cp.aspx?n=F7AEF7883C88532B)S
 ##### 1.照顧和專業服務
-*居家照顧：照顧服務員到家中協助長照需求者，包含基本身體清潔、基本日常照顧、測量生命徵象、餵食、餐食照顧、協助沐浴及洗頭、陪同外出或就醫、到宅沐浴車服務等。[服務單位](https://nextws.cyhg.gov.tw/001/Upload/1518/relfile/17496/6832/d971e3da-13cd-46ff-9ca3-faa43f72ab8f.pdf)    
-*專業服務：依長照需求者的身心狀態、復能動機、傷口、營養、進食與吞嚥、困擾行為、臥床或長期活動受限等，提供居家復能、護理、營養、社工或跨團隊的整體性照顧指導。[服務單位](https://nextws.cyhg.gov.tw/001/Upload/1518/relfile/17496/6439/0ee31373-773b-4c55-bb7d-51dddae83c74.pdf)  
-*社區照顧：長照需求者到長照服務單位：[日間照顧中心](https://nextws.cyhg.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvMTUxOC9ja2ZpbGUvM2EzMzVkNDQtODU1My00NjgzLTgwNjEtOTgyNjI2MWVlYjI5LnBkZg%3d%3d&n=MTEy5bm0KOW7tue6jCnnpL7ljYDlvI%2fml6XplpPnhafpoafkuK3lv4Plj4rlsI%2fopo%2fmqZ8oMTEyMDQxMikucGRm&Icon=.pdf),
+* 居家照顧：照顧服務員到家中協助長照需求者，包含基本身體清潔、基本日常照顧、測量生命徵象、餵食、餐食照顧、協助沐浴及洗頭、陪同外出或就醫、到宅沐浴車服務等。[服務單位](https://nextws.cyhg.gov.tw/001/Upload/1518/relfile/17496/6832/d971e3da-13cd-46ff-9ca3-faa43f72ab8f.pdf)    
+* 專業服務：依長照需求者的身心狀態、復能動機、傷口、營養、進食與吞嚥、困擾行為、臥床或長期活動受限等，提供居家復能、護理、營養、社工或跨團隊的整體性照顧指導。[服務單位](https://nextws.cyhg.gov.tw/001/Upload/1518/relfile/17496/6439/0ee31373-773b-4c55-bb7d-51dddae83c74.pdf)  
+* 社區照顧：長照需求者到長照服務單位：[日間照顧中心](https://nextws.cyhg.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvMTUxOC9ja2ZpbGUvM2EzMzVkNDQtODU1My00NjgzLTgwNjEtOTgyNjI2MWVlYjI5LnBkZg%3d%3d&n=MTEy5bm0KOW7tue6jCnnpL7ljYDlvI%2fml6XplpPnhafpoafkuK3lv4Plj4rlsI%2fopo%2fmqZ8oMTEyMDQxMikucGRm&Icon=.pdf),
 [托顧家庭](https://nextws.cyhg.gov.tw/001/Upload/1518/relfile/17496/6832/e7f84faf-7c97-4e23-be99-dbe7f76a109f.pdf)  
 接受生活照顧、健康促進、文康休閒等服務。
 ##### 2.交通接送

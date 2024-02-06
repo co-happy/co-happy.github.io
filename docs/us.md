@@ -2,8 +2,6 @@
 共樂的成立初衷【生命共好‧社區共樂】，目的在資源不足地區發展出「厝邊護理站」,建構「嘉義沿海地區照護網絡」,運用護理師的專業,聯結社區的醫療與照顧資源,提供全人、全家、全隊及全社區的在地服務,給予社區民眾預防性及連續性的健康照護。    
 2018年11月11日設立共樂居家護理所
 
-![](./assets/timeline.png)
-
 2020年設立共樂生活股份有限公司附設嘉義縣私立共樂居家長照機構
 於110年6月29日申請設立，同年7/8完成居家服務特約(服務區域義竹、鹿草、水上)，7/15增加居家喘息特約(服務區域義竹、鹿草、布袋)。
 
@@ -20,5 +18,5 @@
 1. 嘉縣「管路安心計畫」創造三贏
 [「無管一身輕」 嘉縣「管路安心計畫」創造三贏-風傳媒](https://www.storm.mg/localarticle/4972805)
 1. 「管路安心再+1」管路移除嘉尚讚  
-世新新聞 嘉義縣管路安心再+1~管路移除嘉尚讚 - YouTube  
+[世新新聞 嘉義縣管路安心再+1~管路移除嘉尚讚 - YouTube](https://www.youtube.com/watch?v=4yPILtSJdcU)
 [嘉義縣新港鄉青銀共生 「芥幸福」吃出美味回憶](https://www.chinatimes.com/realtimenews/20240119003718-260407?ctrack=pc_main_rtime_p02&chdtv&fbclid=IwAR1nlNbanQOYPQLHYS4zZcrggtcQOszxCp_KgGaPUIhXVzhumQV-3TBoXjc)
